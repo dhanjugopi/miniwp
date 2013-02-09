@@ -1,0 +1,4 @@
+miniwp
+======
+
+Minimal wordpress theme
